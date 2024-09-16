@@ -4,9 +4,15 @@
 This Python program implements the Caesar cipher, a simple substitution cipher where each letter of the plaintext is shifted a fixed number of positions down the alphabet.
 
 **Usage**
-1 Download
+1 Download python file:
+    
+    ceaser_cypher.py
 
-2 Follow the prompts:
+2 Run the program:
+
+    python caesar_cypher.py
+
+3 Follow the prompts:
 
     Select the mode: 'e' for encryption or 'd' for decryption.
     Enter the shift value (the number of positions to shift the letters).
