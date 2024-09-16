@@ -1,6 +1,7 @@
 # SCT_CS_1
 
 **Introduction**
+
 This Python program implements the Caesar cipher, a simple substitution cipher where each letter of the plaintext is shifted a fixed number of positions down the alphabet.
 
 **Usage**
@@ -20,13 +21,18 @@ This Python program implements the Caesar cipher, a simple substitution cipher w
     Input the text to be encrypted or decrypted.
 
 **Functionality**
-**Encryption**: Shifts each letter of the plaintext to the right by the specified shift value.
-**Decryption**: Shifts each letter of the ciphertext to the left by the specified shift value.
-**Handling of non-alphabetic characters**: Non-alphabetic characters (e.g., numbers, symbols) are preserved unchanged.
+
+*Encryption*: Shifts each letter of the plaintext to the right by the specified shift value.
+
+*Decryption*: Shifts each letter of the ciphertext to the left by the specified shift value.
+
+*Handling of non-alphabetic characters*: Non-alphabetic characters (e.g., numbers, symbols) are preserved unchanged.
 
 **Customization**
-**Shift value**: You can modify the shift value to change the encryption or decryption strength.
-**Alphabet**: If you need to work with different alphabets or character sets, you can modify the "letters" variable in the code.
+
+*Shift value*: You can modify the shift value to change the encryption or decryption strength.
+
+*Alphabet*: If you need to work with different alphabets or character sets, you can modify the "letters" variable in the code.
 
 **Example**:
 
