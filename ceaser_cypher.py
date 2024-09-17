@@ -40,7 +40,6 @@ while(True):
             else:
                 print("Enter number between 1 and 26")
                 continue
-        break
 
     elif usrip == 'd':
         print("Decryption mode selected\n")
@@ -54,8 +53,10 @@ while(True):
             else:
                 print("Enter number between 1 and 26")
                 continue
-        break
 
+    elif usrip == 'q':
+        break
+    
     else:
         print("Please enter appropriate mode")
         continue
