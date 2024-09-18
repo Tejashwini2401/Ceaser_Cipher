@@ -1,4 +1,4 @@
-# SCT_CS_1
+# Ceaser_Cipher
 
 **Introduction**
 
